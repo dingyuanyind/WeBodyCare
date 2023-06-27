@@ -5,6 +5,8 @@
 - 体检预约管理：开始/截止时间/人数均可灵活设置，可以自定义客户预约填写的数据项
 - 体检预约凭证：支持线下到场后校验签到/核销/二维码自助签到等多种方式
 - 详尽的预约数据：支持预约名单数据导出Excel，打印
+
+  
 ![image](https://github.com/dingyuanyind/WeBodyCare/assets/92237001/33db0d38-3a3b-4a4b-a6ae-585a3daaa692)
 
 
