@@ -5,8 +5,8 @@
 - 体检预约管理：开始/截止时间/人数均可灵活设置，可以自定义客户预约填写的数据项
 - 体检预约凭证：支持线下到场后校验签到/核销/二维码自助签到等多种方式
 - 详尽的预约数据：支持预约名单数据导出Excel，打印
+![image](https://github.com/dingyuanyind/WeBodyCare/assets/92237001/33db0d38-3a3b-4a4b-a6ae-585a3daaa692)
 
-![image](https://user-images.githubusercontent.com/92237001/164390884-f93ebcc0-a7de-47c9-bb01-a57c8a3f82ff.png)
 
 ## 技术运用
 - 本项目使用微信小程序平台进行开发。
@@ -21,13 +21,15 @@
 - 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
 - 俺的微信:
  
-![image](https://user-images.githubusercontent.com/92237001/164390925-fe5b4d27-a11e-4da5-8151-296c1b25463d.png)
+ ![image](https://github.com/dingyuanyind/WeBodyCare/assets/92237001/ec341cc1-07fe-4ae2-99af-b79b82f66bf0)
+
 
 
 
 ## 演示
 
-![image](https://user-images.githubusercontent.com/92237001/164390890-4eb9c42c-9c3f-4d1c-b3f5-860ff3b0cc2a.png)
+ ![image](https://github.com/dingyuanyind/WeBodyCare/assets/92237001/5d615aba-4f70-4776-80b2-c8d645316ac2)
+
  
  
 
