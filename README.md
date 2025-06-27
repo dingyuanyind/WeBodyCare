@@ -1,12 +1,13 @@
 ## 功能介绍 
-    
+    ![image](https://github.com/user-attachments/assets/b6eeae56-4572-4987-9c7f-82d5b0a3231b)
+
 对于医院体检科室和体检机构而言，每天的体检人数分布也不太均衡，若很多人集中在 某些天体检，会出现「医生强度大、体检人排队久」的问题。采用体检预约小程序进行体检预约数管理，体检人可预约到更广的日期范围、更精准的时段，有效缓解了人员扎堆排队现象，医院和体检机构可细化分配及管理每日体检服务规模，均衡了医生的服务强度。本小程序包括完备的后台管理端，主要功能有最新动态，体检健康知识，选择预约时段预约，我的今日预约提醒，后台预约管理，预约名单查看与导出为Excel, 资讯内容发布等功能
 
 - 体检预约管理： 开始/截止时间/人数均可灵活设置，可以自定义客户预约填写的数据项
 - 体检预约凭证：支持线下到场后校验签到/核销/二维码自助签到等多种方式
 - 详尽的预约数据：支持预约名单数据导出Excel，打印
 
- ![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+ 
 
 ## 技术运用
 - 本项目使用微信小程序平台进行开发。
@@ -16,18 +17,13 @@
 - 资源承载力可根据业务发展需要随时弹性扩展。  
 
 
-
-## 作者
-- 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
-- 俺的微信:
  
- ![输入图片说明](demo/author-base.png)
-
 
 
 ## 演示
  
- ![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![image](https://github.com/user-attachments/assets/6376ca7e-6587-470a-ad95-d088d6ba225f)
+
  
  
 
@@ -39,29 +35,50 @@
 
 
 ## 截图
-![输入图片说明](demo/1%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/2%E6%9C%80%E6%96%B0%E5%8A%A8%E6%80%81.png)
-![输入图片说明](demo/3%E4%BD%93%E6%A3%80%E7%9F%A5%E8%AF%86.png)
-![输入图片说明](demo/4%E9%A2%84%E7%BA%A6%E6%97%A5%E5%8E%86.png)
-![输入图片说明](demo/5%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png)
- ![输入图片说明](demo/6%E4%BD%93%E6%A3%80%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/7%E9%A2%84%E7%BA%A6%E8%AF%A6%E6%83%85.png)
-![输入图片说明](demo/8%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/9%E9%A2%84%E7%BA%A6%E6%88%90%E5%8A%9F.png)
+
+![image](https://github.com/user-attachments/assets/1f183927-0b7c-461c-b6d2-29fe4be12062)
+
+![image](https://github.com/user-attachments/assets/c7c7f305-c49c-4341-897f-992f336abbcd)
+
+![image](https://github.com/user-attachments/assets/0eef0a7b-a33c-4d29-9397-13b9724260b8)
+
+
+![image](https://github.com/user-attachments/assets/1ebbd071-abfb-45ad-ac51-c99298197deb)
+
+![image](https://github.com/user-attachments/assets/3d2646e0-a127-4a6f-bebc-3ea059ff8459)
+
+![image](https://github.com/user-attachments/assets/bb1c045b-a908-4bc0-b053-12ee7b2da141)
+
+![image](https://github.com/user-attachments/assets/2747a1f7-da74-454e-b45a-b79750376a23)
+
+ ![image](https://github.com/user-attachments/assets/3c0e4420-0d85-4ca8-8107-b81845e2d47d)
+![image](https://github.com/user-attachments/assets/42e3a040-893b-4586-b7b9-62bf2634696f)
+
 
 ## 后台管理系统截图
 
-![输入图片说明](demo/10%E5%90%8E%E5%8F%B0-%E9%A6%96%E9%A1%B5.png)
+![image](https://github.com/user-attachments/assets/9fde6269-3f04-4246-b327-de29d10b2043)
+
+![image](https://github.com/user-attachments/assets/e2bcf0e4-87eb-4254-a27c-26ec3d13deab)
+
+![image](https://github.com/user-attachments/assets/b3c54b65-e58a-4489-b378-74c2d0779280)
+
+
+![image](https://github.com/user-attachments/assets/4b08a41d-387d-409d-b43b-7c35dfd74bcc)
+![image](https://github.com/user-attachments/assets/ad4cbbe0-3369-4ac1-8c81-a497c6638094)
+
+
+![image](https://github.com/user-attachments/assets/bdf262a1-c006-4d03-b764-e4b5cf8c9003)
+
+
+![image](https://github.com/user-attachments/assets/61462bb9-12d6-4010-81e6-d54627e80abf)
+![image](https://github.com/user-attachments/assets/4d211212-5355-4654-9c3b-bfb872945e43)
+![image](https://github.com/user-attachments/assets/25a9baf7-e86f-4882-a1c1-e0219c75ff34)
+
+![image](https://github.com/user-attachments/assets/4f60cf4d-2d7c-4cfe-8d27-7c73129ed528)
+
+![image](https://github.com/user-attachments/assets/d0bc4b0d-ffb9-43ee-ab61-b3363bab5b91)
+
+
+
  
-![输入图片说明](demo/11%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/12%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E8%8F%9C%E5%8D%95.png)
-
-![输入图片说明](demo/13%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95%E5%AF%BC%E5%87%BA.png)
-![输入图片说明](demo/14%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95.png)
-![输入图片说明](demo/15%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/16%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E6%B7%BB%E5%8A%A0.png)
-![输入图片说明](demo/17%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E6%97%B6%E6%AE%B5%E8%AE%BE%E7%BD%AE.png)
-![输入图片说明](demo/18%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E6%A0%B8%E9%94%80.png)
-
-![输入图片说明](demo/19%E5%90%8E%E5%8F%B0-%E5%86%85%E5%AE%B9%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/20%E5%90%8E%E5%8F%B0-%E5%86%85%E5%AE%B9%E6%B7%BB%E5%8A%A0.png)
